@@ -10,11 +10,11 @@
  * @file; functions.php
  */
 
-function custom_my_account_menu_items( $items ) {
+function webmatrix_my_account_menu_items( $items ) {
     unset($items['downloads']);
     return $items;
 }
 
-add_filter( 'woocommerce_account_menu_items', 'custom_my_account_menu_items' );
+add_filter( 'woocommerce_account_menu_items', 'webmatrix_my_account_menu_items' );
 
 ?>
