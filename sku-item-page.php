@@ -5,8 +5,9 @@
  * 
  * Show SKU in a DIV on the Item page.
  * 
- * @author; Jake Howell.
- * @page; /woocommerce/single-product.php.
+ * @author; ???.
+ * @location; /woocommerce/single-product.php.
+ * @file; functions.php
  */
 
 add_action( 'woocommerce_single_product_summary', 'webmatrix_show_sku', 5 );
