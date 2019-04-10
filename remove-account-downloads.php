@@ -3,10 +3,11 @@
 /*
  * REMOVE-ACCOUNTS-DOWNLOADS.PHP
  * 
- * Removes accounts from the downloads page.
+ * Removes Downloads from the `myaccount` page.
  * 
- * @author; Jake Howell.
- * @page; /woocommerce/myaccount/navigation.php
+ * @author; ???.
+ * @location; /woocommerce/myaccount/navigation.php
+ * @file; functions.php
  */
 
 function custom_my_account_menu_items( $items ) {
