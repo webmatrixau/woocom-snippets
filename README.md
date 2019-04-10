@@ -9,6 +9,6 @@ Hopefully its everything you want and more!
 ## Snippets
 
 | Name | Description | Location 
----
-| `sku-item-page.php` | Show SKU in a DIV on the Item page. | `functions.php`
-| `remove-account-downloads.php` | Removes Downloads from the `myaccount` page. | `functions.php`
+|---|---|---|
+| `sku-item-page.php` | Show SKU in a DIV on the Item page. | `functions.php` |
+| `remove-account-downloads.php` | Removes Downloads from the `myaccount` page. | `functions.php` |
